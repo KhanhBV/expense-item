@@ -3,7 +3,7 @@ import './ExpenseItem.css';
 function ExpenseItem() {
 
     const expenseDate = new Date(2021, 2, 28);
-    const expenseTitle = "Car Insurance";
+    const expenseTitle = "Car Insurance 1";
     const expenseAmount = 294.67;
 
     return (
